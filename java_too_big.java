@@ -1,6 +1,6 @@
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-			long t = 1478571898 *1000;
+			int t = 1478571898 *1000;
 			Date date = new Date(t);
 			a.b("t        :"+t);
 			a.b("timestamp:"+date.getTime());
